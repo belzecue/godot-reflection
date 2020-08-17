@@ -1,6 +1,6 @@
 # Reflection for Godot 4.0
 
-[![Screenshot of Reflection](https://raw.githubusercontent.com/Calinou/media/master/godot-reflection/screenshot-thumb.png)](https://raw.githubusercontent.com/Calinou/media/master/godot-reflection/screenshot.png)
+[![Screenshot of Reflection (tweaks-green)](https://raw.githubusercontent.com/Calinou/media/master/godot-reflection/screenshot_tweaks-green-thumb.png)](https://raw.githubusercontent.com/Calinou/media/master/godot-reflection/screenshot_tweaks-green.png)
 
 A port of [Tesseract](http://tesseract.gg)'s Reflection map for testing Godot 4.0's new renderer.
 
